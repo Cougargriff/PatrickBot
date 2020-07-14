@@ -14,7 +14,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint src/"
+    "lint": "eslint src/",
+    "start": "node src/index.js"
   },
   "keywords": [
     "discord",
